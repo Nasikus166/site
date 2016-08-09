@@ -2,7 +2,8 @@
 
 require_once ('header.php');
 
-echo "про";
+echo "проd";
+
 require_once ('footer.php');
 
 ?>
